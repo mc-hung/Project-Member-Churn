@@ -1,5 +1,5 @@
 # Member-Churn
-Data Mining Project with R
+Data Mining Project with R & Tableau
 
 Northeastern University - Seattle
 
